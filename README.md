@@ -4,4 +4,5 @@ simple password-manager using customtkinter for gui.
 
 
 
-![Passwort_Generator_cmXmMZSeEc](https://user-images.githubusercontent.com/25725533/212993443-b23960ad-45a4-4227-b991-d082c93c9b8d.png)
+
+![Passwort_Generator_1s9AoHnQk6](https://user-images.githubusercontent.com/25725533/212993493-4f29c0a9-a3a0-4412-a07b-0edad3fb7017.png)
